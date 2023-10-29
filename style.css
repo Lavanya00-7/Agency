@@ -1,0 +1,12 @@
+h2{
+    font-family: sans-serif;
+    text-align: center;
+    color: blueviolet;
+}
+.img{
+    background-color: rgb(121, 115, 115);
+    align-items: center;
+}
+p{
+    color: azure;
+}
